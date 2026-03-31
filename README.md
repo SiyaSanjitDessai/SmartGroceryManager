@@ -1,6 +1,3 @@
-Here is your **FULL README in clean TEXT format (no markdown symbols)** — just copy and paste into your README file or submission 👇
-
----
 
 SMART GROCERY LIST MANAGER (JavaFX)
 
